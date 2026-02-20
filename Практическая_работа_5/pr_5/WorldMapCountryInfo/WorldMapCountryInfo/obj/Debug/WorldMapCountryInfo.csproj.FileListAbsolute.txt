@@ -1,0 +1,16 @@
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.exe.config
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.exe
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.pdb
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\GMap.NET.Core.dll
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\GMap.NET.WindowsForms.dll
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\Newtonsoft.Json.dll
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\Newtonsoft.Json.xml
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.AssemblyReference.cache
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.Properties.Resources.resources
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.GenerateResource.cache
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.CoreCompileInputs.cache
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMap.235445B7.Up2Date
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.exe
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.pdb
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.exe.config
+C:\1\ДЗ\4 курс\Интеллектуальные системы\pr_5\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.Form1.resources
