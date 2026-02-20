@@ -1,0 +1,14 @@
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\bin\Debug\prakt_1.exe.config
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\bin\Debug\prakt_1.exe
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\bin\Debug\prakt_1.pdb
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\bin\Debug\Newtonsoft.Json.dll
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\bin\Debug\Newtonsoft.Json.xml
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.csproj.AssemblyReference.cache
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.Properties.Resources.resources
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.csproj.GenerateResource.cache
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.csproj.CoreCompileInputs.cache
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.csproj.Up2Date
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.exe
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.pdb
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.exe.config
+C:\1\ДЗ\4 курс\Интеллектуальные системы\prakt_1\prakt_1\obj\Debug\prakt_1.Form1.resources
